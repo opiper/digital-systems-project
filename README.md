@@ -247,22 +247,6 @@ python manage.py migrate
 docker-compose up -d -p 8001:8000
 ```
 
-## Contributing
-
-Contributions are welcome! Please follow these guidelines:
-
-1. Create a feature branch from `main`
-2. Make focused, atomic commits
-3. Ensure code follows Django conventions
-4. Test your changes locally
-5. Submit a pull request with a clear description
-
-For detailed contribution guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md) (if available) or contact the maintainers.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 **Questions?** Open an issue or contact the team on WeChat or email (configured in your Company profile).
