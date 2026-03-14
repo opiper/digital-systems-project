@@ -247,6 +247,6 @@ python manage.py migrate
 docker-compose up -d -p 8001:8000
 ```
 
----
+## License
 
-**Questions?** Open an issue or contact the team on WeChat or email (configured in your Company profile).
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
